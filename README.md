@@ -1,6 +1,8 @@
-#http://elvis.rowan.edu/~shawth88/AdvancedDatabases/demo/?page=insert
+#Car detailing backend demo
 
-# Car Detailing DB Demo — Environment Setup
+##http://elvis.rowan.edu/~shawth88/AdvancedDatabases/demo/?page=insert
+
+## Environment Setup
 
  `DB_HOST`  Hostname of your MySQL server
  `DB_NAME`  The name of the database/schema to connect to

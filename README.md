@@ -1,3 +1,5 @@
+#http://elvis.rowan.edu/~shawth88/AdvancedDatabases/demo/?page=insert
+
 # Car Detailing DB Demo — Environment Setup
 
  `DB_HOST`  Hostname of your MySQL server
